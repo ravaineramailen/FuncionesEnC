@@ -1,0 +1,6 @@
+Comandos de git
+1º Debo tener un repositorio creado, con readme.
+2º Para clonarlo uso el git clone.
+3º Agregar los archivos nuevos o modificados git add .
+4º Hacer commit git commit -m "mensaje de commit".
+5º Subo todos los commit a github git push
