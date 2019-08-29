@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1567088909 source:d:\ravainera\funcionesenc\clase3\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1567088279 source:d:\ravainera\funcionesenc\clase3\funcionesoper.c
+	<stdio.h>
+	<stdlib.h>
+
